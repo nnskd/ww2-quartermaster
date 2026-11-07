@@ -1,0 +1,11 @@
+{
+  "name": "ww2-quartermaster-p0",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "二战风云·军需官 P0 联机原型（零依赖）",
+  "scripts": {
+    "start": "node server/index.mjs",
+    "sim": "node test/sim.mjs"
+  }
+}
